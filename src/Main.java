@@ -38,6 +38,7 @@ public class Main {
         printService.print(workers);
         minSalary(workers);
         maxSalary(workers);
+
     }
 }
 
