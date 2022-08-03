@@ -5,8 +5,11 @@ public class Employee {
     private int department;
     private int salary;
     private int id;
-    private int counter;
-
+    private static int counter;
+    public int setCounter(int counter) {
+        this.counter = counter;
+        return counter;
+    }
     public int getId() {
         return id;
     }
@@ -17,10 +20,6 @@ public class Employee {
 
     public int getCounter() {
         return counter;
-    }
-
-    public void setCounter(int counter) {
-        this.counter = counter;
     }
 
     public String getName() {
