@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45bce3a4-efb0-4876-916b-e656fae45881" name="Changes" comment="1" />
+    <list default="true" id="45bce3a4-efb0-4876-916b-e656fae45881" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/printService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/printService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="aaf4f54b-2206-46e7-a8ab-99cf9f2757a4" />
+        <option name="url" value="https://github.com/Pego0/Cource11.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,6 +73,9 @@
       <updated>1659265403786</updated>
       <workItem from="1659265405062" duration="9570000" />
       <workItem from="1659283751049" duration="300000" />
+      <workItem from="1659451499874" duration="837000" />
+      <workItem from="1659464694387" duration="26000" />
+      <workItem from="1659535922811" duration="2701000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1659283948330</created>
@@ -68,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659283948330</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1659451676921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659451676921</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1659452001650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659452001650</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
