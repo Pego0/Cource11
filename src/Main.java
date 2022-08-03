@@ -1,4 +1,5 @@
 public class Main {
+
     public static void print(Employee[] workers) {
         System.out.println("Size of workers list: " + workers.length);
         for (int i = 0; i < workers.length; i++) {
