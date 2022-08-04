@@ -16,7 +16,8 @@ public class Main {
         return sum;
     }
     public static double avSalary(Employee[] workers) {
-        return allSalaries(workers) / workers.length;
+        double avv = 10;
+        return allSalaries(workers) / avv;
     }
     public static void minSalary(Employee[] employees) {
         String name = "";
@@ -40,7 +41,7 @@ public class Main {
         }
         System.out.println("Employee with maximum salary is: " + name + ". His/her salary is: " + maxSalary);
     }
-    private static Employee[] workers = new Employee[10];
+    static Employee[] workers = new Employee[10];
 
     public static void main(String[] args) {
         workers[0] = new Employee("John H.", 1, 1000);
